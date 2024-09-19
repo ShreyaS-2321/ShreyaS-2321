@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <h1>Shreya Shrivastava</h1>
 - 👀 I’m interested in <i>UI/UX</i> and Web Development
-- 🌱 I’m currently learning Frontend development
+- 🌱 I’m currently learning Fullstack development
 - 📫 How to reach me https://www.linkedin.com/in/shreya-shrivastava-261245256/
 - 😄 Pronouns: She/Her
 
