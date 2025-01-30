@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Shrivastava</h1>
 <h3 align="center">A passionate UI/UX & Web Developer</h3>
-<img align="right" alt="coding" width="400" height="400" src="./sideimage.jpg">
+<img align="right" alt="coding" width="300" height="400" src="./sideimage.jpg">
 
 
 - 🔭 I’m currently working on [InnoSphere](https://innosphere.netlify.app/)
