@@ -1,11 +1,10 @@
 <div align="center">
-[![MasterHead](./wallpaper.jpeg)]
+<img alt="coding" width="400" src="./wallpaper.jpeg">
 </div>
 <h1 align="center">Hi 👋, I'm Shreya Shrivastava</h1>
 <h3 align="center">A passionate UI/UX & Web Developer</h3>
 <img align="right" alt="coding" width="400" src="./sideimage.jpg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-2321" alt="shreyas-2321" /></a> </p>
 
 - 🔭 I’m currently working on [InnoSphere](https://innosphere.netlify.app/)
 
