@@ -1,7 +1,7 @@
-[![MasterHead](https://pin.it/6W8TV3j8Q)]
+[![MasterHead](./wallpaper.jpeg)]
 <h1 align="center">Hi 👋, I'm Shreya Shrivastava</h1>
 <h3 align="center">A passionate UI/UX & Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/cat-computer-typing-funny-cats-anonymous-gif-14797159">
+<img align="right" alt="coding" width="400" src="./sideimage.jpg">
 
 - 🔭 I’m currently working on [InnoSphere](https://innosphere.netlify.app/)
 
