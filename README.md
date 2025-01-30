@@ -1,4 +1,4 @@
-[![MasterHead](./wallpaper.jpeg)]
+<img align="center" alt="coding" width="800" src="./wallpaper.jpeg">
 <h1 align="center">Hi 👋, I'm Shreya Shrivastava</h1>
 <h3 align="center">A passionate UI/UX & Web Developer</h3>
 <img align="right" alt="coding" width="400" src="./sideimage.jpg">
