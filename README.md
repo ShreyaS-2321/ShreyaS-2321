@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyaS-2321&show_icons=true&locale=en&layout=compact" alt="shreyas-2321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaS-2321&show_icons=true&locale=en" alt="shreyas-2321" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaS-2321&show_icons=true&locale=en&cache_seconds=3600" alt="shreyas-2321" /></p>
 
 
