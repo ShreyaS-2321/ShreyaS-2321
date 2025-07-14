@@ -3,6 +3,7 @@
 <h3 align="center">A passionate UI/UX Designer & Web Developer</h3>
 <img align="right" alt="coding" width="300" height="400" src="./sideimage.jpg">
 
+- 💻 Visit my [Portfolio](https://portfolioshreyashrivastava.netlify.app/)
 
 - 🔭 I’m currently working on [InnoSphere](https://innosphere.netlify.app/)
 
@@ -23,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyaS-2321&show_icons=true&locale=en&layout=compact" alt="shreyas-2321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaS-2321&show_icons=true&locale=en" alt="shreyas-2321" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaS-2321&show_icons=true&locale=en&cache_seconds=0.1" alt="shreyas-2321" /></p>
 
 
