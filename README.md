@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shreya-shrivastava-261245256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-shrivastava-261245256" height="30" width="40" /></a>
 <a href="https://dribbble.com/shreya88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shreya88" height="30" width="40" /></a>
+<a href="https://portfolioshreyashrivastava.netlify.app/" target="blank"><img align="center" src="aboutimg.png" alt="shreya88" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
