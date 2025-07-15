@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyaS-2321&show_icons=true&locale=en&layout=compact" alt="shreyas-2321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaS-2321&show_icons=true&locale=en&cache_seconds=0.1" alt="shreyas-2321" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaS-2321&show_icons=true&locale=en&cache_miliseconds=1" alt="shreyas-2321" /></p>
 
 
