@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Shrivastava</h1>
-<h3 align="center">A passionate UI/UX Designer & Web Developer</h3>
+<h3 align="center">A passionate UI/UX Designer & Frontend Developer</h3>
 <img align="right" alt="coding" width="300" height="400" src="./sideimage.jpg">
 
 - 💻 Visit my [Portfolio](https://portfolioshreyashrivastava.netlify.app/)
 
 - 🔭 I’m currently working on [InnoSphere](https://innosphere.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **U/UX,CSS,React**
 
